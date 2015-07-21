@@ -20,3 +20,5 @@ XDA Thread:
 
 Available in the Xposed Repository:
   - http://repo.xposed.info/module/ro.brucelee.xposed.fullscreencallpicture
+
+![screenshot](https://raw.githubusercontent.com/blchinezu/XposedFullScreenCallPicture/master/screenshots/Screenshot_2013-07-11-15-22-41.jpg)
