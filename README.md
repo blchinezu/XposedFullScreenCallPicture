@@ -22,9 +22,3 @@ Available in the Xposed Repository:
   - http://repo.xposed.info/module/ro.brucelee.xposed.fullscreencallpicture
 
 ![screenshot](https://raw.githubusercontent.com/blchinezu/XposedFullScreenCallPicture/master/screenshots/Screenshot_2013-07-11-15-22-41.jpg)
-
-You can donate through PayPal at [brucelee.duckdns.org/donation/XposedFullScreenCallPicture](http://brucelee.duckdns.org/donation/XposedFullScreenCallPicture)
-
-    Since I can't directly add the PayPal donation button here, I've created a simple page
-    which has the Donate button.
-    
